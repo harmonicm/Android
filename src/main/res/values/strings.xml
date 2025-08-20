@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RemotePlay</string>
+    <string name="WelcomeButton">List Bluetooth Connections</string>
+    <string name="app_header">Remote Play</string>
+</resources>
